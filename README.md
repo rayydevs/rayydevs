@@ -1,20 +1,21 @@
-👋 Hi, welcome to my profile!  
-*My name is Rayane and I am a Computer Science student passionate about technology, competitive programming, anime and cats 🐱💻 
+👋 Oii, bem vindo ao meu perfil!  
+*Meu nome é Rayane, sou uma estudante de Ciência da Computação começando na área de programação apaixonada por gatos, animes e música 🐱💻🎶
 
-🌟 About Me:  
-*🎓 Second semester Computer Science student.  
-*💻 Exploring the world of web development, programming and data science.  
-*🚀 Currently, I work on projects that combine academic theory and professional practice.
+🌟 Sobre mim:  
+*🎓 Estudante do segundo semestre de Ciência da Computação.  
+*💻 Explorando o mundo da programação e ciência de dados.  
+*🚀Atualmente focando em fazer pequenos projetos para me ajudar na pratica e estudando inglês.
 
-🛠️ Technologies and Tools I use and am improving:  
-*Languages: Python, C, PHP  
-*Web Development: HTML, CSS, MySQL  
-*Tools: Git, Dev C++, Figma, VisualStudio  
+🛠️ Ferramentas que utilizo e estou me aprimorando:  
+*Linguagens: C, JavaScript, NodeJS  
+*Desenvolvimento Web: HTML, CSS  
+*Ferramentas: Git, Figma, VisualStudio  
+*Banco de dados: MySQL  
 
-✨ Objectives:  
-*Deepen my knowledge in programming and data science.  
-*Participate in collaborative projects and contribute to the open-source community.  
-*Expand my portfolio with meaningful projects.  
+✨ Objetvos:  
+*Aprofundar meu conhecimento em programação e ciência de dados.  
+*Participar de projetos colaborativos.  
+*Expandir meu potifólio com projetos significativos.  
   
 
 <!---
